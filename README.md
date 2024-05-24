@@ -1,1 +1,1 @@
-# ProgettoProgrammazionDiReti
+# ProgettoProgrammazionDiRetiProgetto di Programmazione di Reti, traccia: Sistema di chat  Client-Server. a.a 2024.
